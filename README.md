@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Lucas👋
 
 - 🔭 Dev .NET
-- 🌱 Estudando Dapper no momento
+- 🌱 Estudando Dapper, filtros e outros frameworks no momento
 
 <div align="center">
   <a href="https://github.com/yoshinolucas">
