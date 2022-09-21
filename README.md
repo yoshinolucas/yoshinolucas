@@ -1,6 +1,6 @@
 ### Hello! I'm Lucas 👋
 
-- 🔭 Software Developer .NET, Typescript and SQL
+- 🔭 Software Developer .NET, Typescript
 
 <div align="center">
   <a href="https://github.com/yoshinolucas">
