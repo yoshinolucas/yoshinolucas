@@ -5,6 +5,7 @@
 - React.js<br>
 - Javascript<br>
 - Jquery<br>
+- MySQL<br><br>
 
 <div align="center">
   <a href="https://github.com/yoshinolucas">
