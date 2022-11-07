@@ -1,6 +1,10 @@
 ### Hello! I'm Lucas 👋
 
 - 🔭 Software Developer PHP
+<hr>
+- React.js<br>
+- Javascript<br>
+- Jquery<br>
 
 <div align="center">
   <a href="https://github.com/yoshinolucas">
