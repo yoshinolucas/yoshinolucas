@@ -1,6 +1,6 @@
 ### Hello! I'm Lucas 👋
 
-🔭 Software Developer PHP
+🔭 Software Developer PHP | Javascript | Flutter | Dart
 <hr>
 
 <div align="center">
