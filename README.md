@@ -1,8 +1,7 @@
 ### Hello! I'm Lucas 👋
 
-🔭 Software Developer .NET | PHP | Javascript | Flutter
+🔭 Software Developer .NET | PHP | Javascript | Flutter | Java
 
-Youtube channel: www.youtube.com/@yoshinolucas
 <hr>
 
 <div align="center">
